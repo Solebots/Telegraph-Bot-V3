@@ -13,7 +13,7 @@ DOWNLOAD_LOCATION = os.environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/")
 
 START_TEXT = """
 H![✨](https://telegra.ph/file/1434d9d0eb6a8bf00456a.jpg)
-I am Telegraph Media Converter🧳 Create by Telegraph v3
+I am Telegraph Media Converter🎭 Create by Telegraph v3
 I can create Pictures under 5MB
 
 ~ @Master_X_Updates ~
@@ -28,8 +28,8 @@ Support ~ @Master_X_Updates ~
 ABOUT_TEXT = """
 - **Bot :** `Telegraph Uploader v3`
 - **Python3 :** `3.9.6`
-- **Updates Channel: **[Master X Bot's Updates](t.me/Master_X_Updates)
-- **Support :** [Best Friends](t.me/Best_Friends15)
+- **Updates Channel: **[sole_bots](https://t.me/sole_bots)
+- **Support :** [sole_bots support](https://t.me/+wyuaWkAlpiM2MjVl)
 
 """
 START_BUTTONS = InlineKeyboardMarkup(
